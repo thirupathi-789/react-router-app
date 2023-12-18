@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightslategray;
+    height: 100vh;
+    color: white;
+}
+
+.input-elements {
+    padding:20px
+}
+
+label {
+    padding-right: 20px;
+}

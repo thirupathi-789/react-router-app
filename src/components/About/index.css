@@ -1,0 +1,13 @@
+.about-react {
+    font-size: 18px;
+}
+
+.companies {
+    font-size: 18px;
+    color: gray;
+}
+
+.about-container {
+    background-color: lightgoldenrodyellow;
+    height: 100vh;
+}

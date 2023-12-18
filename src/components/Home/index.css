@@ -1,0 +1,22 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    height: 100vh;
+
+}
+
+.image {
+    height: 170px;
+    width: 170px;
+}
+
+.heading {
+    font-size: 42px;
+}
+
+.paragraph {
+    font-size: 28px;
+}
